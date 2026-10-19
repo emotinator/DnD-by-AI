@@ -116,7 +116,8 @@ Three cyclopes ferry pilgrims across the Sunless Sea, once mislabelled "ogres." 
 - The cyclopes' **gem-stones**, if the bronze door didn't consume them.
 - The Mussum flame was delivered at Davarn. **[prep]** Whether the party still carries a flame or candle is unclear; confirm.
 
-## Ormpetarr side arc **[prep; probably played by the rest of the party while Nelgron was at the hospice; confirm]**
+## Ormpetarr side arc **[played, per Melania's sheet; details from prep]**
+Melania's sheet carries the adventure's rewards (a silver crescent charm and a Selûnite religion token), so it was played, probably while Nelgron was at the hospice. How it ended is unrecorded.
 The log says the others "took other work in Ormpetarr." *The Lanterns Beneath Moonfall Court* fits: four level-2 PCs (Valerian, Melania, Theon, Bubba Fatt), sleepwalkers and failing moon-lanterns, the Temple of Selûne, the flooded cisterns, Lantern Wretches, the Drowned Shrine puzzle, and **Sister Vaelis** trying to wake **the Lantern Below**, a shadow-consciousness sealed by Selûnite moonlight. Its energy feels related to the corruption beneath Karrag-Dum. Outcome unknown.
 
 ## Open threads
@@ -128,7 +129,7 @@ The log says the others "took other work in Ormpetarr." *The Lanterns Beneath Mo
 - **The lost three weeks:** six unused sensory fragments (see `log-recent.md`), the key, the journals. The Stone at Davarn might restore them.
 - **The Keeper's question:** answers unrecorded on purpose. The party left by another route.
 - **"They who cling to the ceiling"** versus the ceiling-hung structures.
-- **The moon chant:** the Priest's moonlight that carried the party out of Kiln Hall. **DM-ONLY: undecided.** Candidate from play: the party cleansed a Selûnite moon pool in the Temple Below the Snow, and moonlight is "a literal mechanic" against Shar's darkness in that prep.
+- **The moon chant:** Melania's moonlight that carried the party out of Kiln Hall. Likeliest mechanics, from her sheet: a **Word of Recall tattoo** tied to the **Temple of Selûne in Ormpetarr**. What the moon quality means, and whether the tattoo has a cost, is still **DM-ONLY: undecided**; confirm with Melania's player. Also relevant: the party cleansed a Selûnite moon pool in the Temple Below the Snow.
 - **The coin chain:** deliver to Factor Valance; pay Manco's exchange.
 - **The temple's unexplored parts.**
 - **Amn and the giants:** the letter could still turn the queen against Amn; the party now stands outside her city.
@@ -137,7 +138,7 @@ The log says the others "took other work in Ormpetarr." *The Lanterns Beneath Mo
 ## To resolve
 1. Is prep-"Seressa" (the patron) the same person as Saressa the Cowled Wizard?
 2. Which PC names go with which characters (see roster).
-3. Was *The Lanterns Beneath Moonfall Court* played, and how did it end?
+3. How did *The Lanterns Beneath Moonfall Court* end (Sister Vaelis, the Lantern Below)?
 4. The real Caralyn's house: the decree says Lady Caralyn Hawklin and a Tethyr–Lapaliiya alliance, so she is probably Lapaliiyan, not Chondathan as the old bible said.
 5. The giant ruler's name and title.
-6. Did the Davarn duergar/Firebrand's Redoubt material from prep come up in play?
+6. How much of the Davarn duergar/Firebrand's Redoubt prep came up in play? Melania's notes mention Lady Delbra and the Firebrands fighting off the duergar 40 years ago, a duergar temple mosaic, and Novar Rinsdalin, a customs inspector.
