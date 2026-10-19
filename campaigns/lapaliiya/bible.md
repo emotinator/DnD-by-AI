@@ -133,7 +133,8 @@ The log says the others "took other work in Ormpetarr." *The Lanterns Beneath Mo
 - **The coin chain:** deliver to Factor Valance; pay Manco's exchange.
 - **The temple's unexplored parts.**
 - **Amn and the giants:** the letter could still turn the queen against Amn; the party now stands outside her city.
-- **Nelgron's Corpse Rot** and the fungus on her pack.
+- **The fungus on Nelgron's pack.** (Her Corpse Rot was healed at the Myconid Garden.)
+- **A serious wound** taken by the Ranger or the Rogue while covering Kaitlin's escape. Which one, and what it is, is unconfirmed.
 
 ## To resolve
 1. Is prep-"Seressa" (the patron) the same person as Saressa the Cowled Wizard?

@@ -33,10 +33,10 @@ _Last updated: 2026-10-19 · Sources: D&D Beyond sheets (read 2026-10-19, campai
 - **Who she is:** 38, she. Thirty-plus years as a charlatan and con artist. Now a monk of the **Ember Quiet**, an Ilmateri order. Her faith is reluctant and arrives through practice, not belief. **Former aliases:** Seressa Vale, Nyx of the Ember Coast, Kala Redhand. **Mentor:** Master Rhen Tal, who insisted she train under her true name. **Contact:** a former mark turned informant.
 - **Key moments:** abandoned the party for treasure at the bog troll, came back, revived the Druid, and was struck down. Dug the Druid out of the avalanche. Revived the Priestess in Kiln Hall. At the House That Bears, took a killing blow meant for a dying woman, and her Warrior of Mercy abilities manifested. Ran between the fallen at the First Fire altar, reviving them while holding off the constructs. The only one who noticed that "eight went through, four are walking." Her sheet adds early beats not in the log: a reindeer barn, a portal puzzle with a "true cookie," and the final blow to a cursed crown that ended "the corruption of the Saint."
 - **House item: Bandaged Wraps of Humility.** On the sheet as Bracers of Defense (**+2 AC**; the log says +1 with homebrew scaling). They grow only through sacrifice borne for those who cannot repay it, never through kills, and restore themselves when used to heal or tend the dying. *"These don't keep you safe. They keep what you give."*
-- **Condition:** **Corpse Rot, active and uncured** (not on the sheet). Fungus growing on her pack, unexplained.
-- **Injuries:** permanent thigh scar (dire wolf); second scar (House That Bears); leg bite (serpent-worm).
+- **Condition:** healthy. She caught Corpse Rot from the wall-worm on the King's Highway, and it was **healed at the Myconid Garden** shortly after. Fungus is growing on her pack, unexplained.
+- **Injuries:** permanent thigh scar (dire wolf); second scar (House That Bears); a minor leg bite from the serpent-worm (not serious).
 - **Carries:** the unknown key; the lost-weeks journals; broken white stones; the carved wooden peg; a cyclops gem-stone (if not consumed). Sheet adds: silver necklace, "Stones of Nord," boot attachments that float over snow. Sheet notes also name **Edrin Hockland, Lord Marshall** ("hand off to Terithians"); context unknown.
-- **Hooks / goals:** Mimon Tamberweed's offer of answers; the Stone at Davarn; the lost weeks; curing the Corpse Rot; the Keeper's question.
+- **Hooks / goals:** Mimon Tamberweed's offer of answers; the Stone at Davarn; the lost weeks; the Keeper's question.
 - **Touchstone:** *"Suffering has chosen this road. It always does. The question is who will walk it without bitterness."*
 - **Keeps a chronicle:** Entries 1–31 so far (16 and 17 reserved, empty).
 - **Takeaways:** —
@@ -60,12 +60,14 @@ _Last updated: 2026-10-19 · Sources: D&D Beyond sheets (read 2026-10-19, campai
 ### Arinir — Aasimar Rogue (Mastermind) 5
 - **Player:** ? · **D&D Beyond ID:** ? · **Sheet:** max HP 28 (**shows 1/28**, probably stale from the escape), AC 16. Amulet of Proof against Detection and Location; **Lantern of Revealing** (the "hero's lantern" from the Dawn Titans temple); shortbow, shortsword, daggers.
 - **In play:** glowed like a torch during the Davarn shadow attack. Found the alternate route on the Twisted Path. Always flags something suspicious. **Shouted for Kaitlin to save herself**, and she did.
+- **Possibly seriously injured:** either Arinir or Bubba Fatt took a serious wound covering Kaitlin during the escape. Arinir's sheet showing 1/28 HP suggests it was him. **Confirm which one, and what the wound is.**
 - **[prep]** Had a mission to steal Brother Malven's ever-burning candle; the party received a portion of the flame instead.
 - **Hooks / goals:** ? · **Takeaways:** —
 
 ### Bubba Fatt — Wood Elf Ranger (Gloom Stalker) 4
 - **Player:** ? · **D&D Beyond ID:** ? · **Sheet:** HP 28 (21 shown), AC 14. Hunter's Mark, Disguise Self. Longbow, two hand crossbows, scimitar, shortsword, spear.
 - **In play:** infiltrated the embassy with Valerian and brought out the treaty fragments and the Factor letter. Dragged into the dark on the King's Highway; recovered with a grappling hook. Led the way onto the route against Saressa's warning.
+- **Possibly seriously injured:** either Bubba Fatt or Arinir took a serious wound covering Kaitlin during the escape. Arinir's sheet suggests it was Arinir. **Confirm.**
 - **Hooks / goals:** ? · **Takeaways:** —
 
 ### Valerian — Half-Elf Druid (Circle of the Stars) 3
