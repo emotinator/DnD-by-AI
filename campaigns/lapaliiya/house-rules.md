@@ -1,11 +1,6 @@
 # House Rules
 
-_Last updated: 2026-10-19_
-
-## Core
-- D&D 5e 2024 rules. Milestone leveling.
-- Players roll their own dice (D&D Beyond or physical) and announce results. The DM rolls behind the screen.
-- Initiative uses the Drama Deck (side initiative, Standard/Dramatic lines, Dramatic Skill Resolution). The full rules are in `instructions.md`, section 4.
+_Last updated: 2026-10-19 · Core settings (ruleset, leveling, initiative, lethality, tone, lines and veils) live in `campaign.md`. This file holds what the table adds on top._
 
 ## Table conventions
 - **Earned level-ups.** A milestone comes with an in-fiction justification from the player: four "magnificent" feats, saves or actions drawn from the character's history. Both Nelgron's log and Melania's sheet notes mention it, so it looks table-wide.
@@ -24,9 +19,3 @@ _Last updated: 2026-10-19_
 
 ## Rulings that stuck
 - _(added from session files as they happen)_
-
-## Lines and veils
-- To be decided by the table.
-
-## Optional
-- **Chronicles are optional.** Writing a chronicle before the next session earns Heroic Inspiration. Otherwise each player gives a one-line takeaway at `end session`. _(Proposed; confirm with the table.)_
