@@ -1,0 +1,31 @@
+# House Rules
+
+_Last updated: 2026-10-19_
+
+## Core
+- D&D 5e 2024 rules. Milestone leveling.
+- Players roll their own dice (D&D Beyond or physical) and announce results. The DM rolls behind the screen.
+- Initiative uses the Drama Deck (side initiative, Standard/Dramatic lines, Dramatic Skill Resolution). The full rules are in `instructions.md`, section 4.
+
+## Table conventions
+- **Earned level-ups.** A milestone can come with an in-fiction justification from the player. Example: Nelgron's level 4 waits on four "magnificent feats or saves" drawn from her history.
+- **Names are loose on purpose.** The table has a running joke of getting NPC names wrong, so spellings drift (Lapadiiya/Lapaliiya, Maetherwatch/Maerthwatch, Caralyn/Kaitlin). Use the bible's spelling in narration; don't correct players.
+- **The party count is unreliable on purpose.** People vanish, are replaced, and come back. Don't reconcile it; ask the session lead who is present.
+- **Some questions are never written down.** The Keeper of the Last Gate's question and each character's answer are kept only in the players' heads. Don't record them in any file.
+
+## Homebrew
+- **Bandaged Wraps of Humility** (Nelgron). Bracers of Defense (+1) with homebrew scaling: they grow only through sacrifice borne for those who cannot repay it, never through kills, and restore themselves when used to heal or tend the dying. Scaling steps aren't written down yet; the session lead decides when they grow.
+- **Cyclops gem-stones.** Each PC received an identical gem-set stone; they opened the bronze door in a sequence. Whether they were consumed is unconfirmed.
+
+## Adventure-specific rules from prep (use if the place comes up again)
+- **Twisted Path:** a long rest in an unprotected stretch gives no benefit; short rests work. Reality Twists (d6) and Spite's Whisper (Wisdom save or a compulsion to act against the apparent betrayer; the PC keeps agency and remembers it).
+- **Moonlight vs. darkness (Selûnite sites):** in direct moonlight, Shadows can't hide; moonlit areas give +1 to saves.
+
+## Rulings that stuck
+- _(added from session files as they happen)_
+
+## Lines and veils
+- To be decided by the table.
+
+## Optional
+- **Chronicles are optional.** Writing a chronicle before the next session earns Heroic Inspiration. Otherwise each player gives a one-line takeaway at `end session`. _(Proposed; confirm with the table.)_
