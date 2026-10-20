@@ -12,7 +12,7 @@ Everything is plain Markdown, so any co-DM can rebuild the same DM on their own 
 ```
 README.md                  # this file
 dm-core/
-  bootstrap.md             # paste into the Claude project's instructions (set campaign + repo path)
+  bootstrap.md             # paste into the Claude project's instructions (set the campaign name)
   instructions.md          # DM core: Claude reads it from the repo every chat
   modules/
     drama-deck.md          # initiative module (used when campaign.md says drama-deck)
@@ -30,7 +30,7 @@ campaigns/
 
 **Working set vs. archive.** Each campaign's five top-level files (`campaign.md`, `bible.md`, `roster.md`, `house-rules.md`, `log-recent.md`) are the *working set*: small, read every session. `sessions/` and `archive/` are read only when an old detail is needed.
 
-**Claude reads everything straight from your clone of this repo.** The Claude project holds only a short bootstrap (`dm-core/bootstrap.md`) that says which campaign to load and where the repo is. Nothing is uploaded to the project, so there's nothing to keep in sync there, but **your clone must be up to date** (see *Handing off between co-DMs*).
+**Claude reads everything straight from your clone of this repo.** The Claude project holds only a short bootstrap (`dm-core/bootstrap.md`) that says which campaign to load. Claude finds the repo on its own, on whatever machine you're using, by looking for the folder that contains `dm-core/` and `campaigns/`, so the same project works from any computer with a clone. Nothing is uploaded to the project, so there's nothing to keep in sync there, but **your clone must be up to date** (see *Handing off between co-DMs*).
 
 > **Spoiler warning:** `bible.md` and `archive/prep/` contain DM-only secrets. Players shouldn't browse this repo.
 
@@ -51,7 +51,7 @@ Do this once per computer. It gives Claude two local tools: a **filesystem** ser
 ### 1. Install the basics
 1. Install the **Claude desktop app** and sign in.
 2. Install **Node.js** (current LTS) from nodejs.org. Check with `node -v` and `npx -v`.
-3. **Clone this repo** somewhere permanent, e.g. `~/Documents/Development/DnD by AI`. Note the full path; you'll need it twice.
+3. **Clone this repo** somewhere permanent, e.g. `~/Documents/Development/DnD-by-AI`. Note the full path; you'll need it for the filesystem server below. (Any path works; Claude finds the repo itself.)
 
 ### 2. Log in to D&D Beyond
 The server is [dndbeyond-mcp](https://github.com/AlexWorland/dndbeyond-mcp) (unofficial, MIT licensed). In a terminal:
@@ -94,7 +94,7 @@ A browser window opens. Log in to D&D Beyond with the **shared scribe account**.
 The filesystem server only sees the folder you list. That's deliberate: Claude can read and write the campaign, and nothing else on your computer.
 
 ### 4. Create the Claude project
-See *Continue the campaign in progress* below: create a project and paste in the bootstrap with your repo path.
+See *Continue the campaign in progress* below: create a project and paste in the bootstrap. No path needed.
 
 ### 5. Test it (2 minutes)
 In a new chat in the project, send:
@@ -123,7 +123,7 @@ You should get: "Authenticated", Nelgron's level, HP and AC, and the `_template`
 
 1. **Clone the repo** (first time) or **`git pull`** (every time after). Someone may have played since you last synced.
 2. **Create a Claude project,** one per campaign, e.g. "DM — Lapaliiya". Leave its knowledge empty.
-3. **Paste the bootstrap.** Copy the block from `dm-core/bootstrap.md` into the project's instructions, and set `Campaign: lapaliiya` and `Repo:` to the path of *your* clone.
+3. **Paste the bootstrap.** Copy the block from `dm-core/bootstrap.md` into the project's instructions, with `Campaign: lapaliiya`. If you play from more than one computer, use the same project on each: Claude finds whichever clone that machine has.
 4. **Use the desktop app** on the machine you set up above, so Claude can reach the repo and D&D Beyond.
 5. **Start a chat** with:
    ```
@@ -131,7 +131,7 @@ You should get: "Authenticated", Nelgron's level, HP and AC, and the `_template`
    ```
    Claude loads the files from your clone, tells you the date of the last session it sees, and asks you to confirm that's the latest. Then it briefs you: where the party is, active threats, open threads, any secrets about to matter.
 
-**Quick check before your first live session:** ask Claude `OOC: which files did you load, and where is the party now?` If it can't reach the repo, check the folder link and the `Repo:` path in the bootstrap.
+**Quick check before your first live session:** ask Claude `OOC: which files did you load, and where is the party now?` If it can't find the repo, check that the filesystem server's path in `claude_desktop_config.json` points at your clone, then restart Claude.
 
 ## Start a new campaign
 
