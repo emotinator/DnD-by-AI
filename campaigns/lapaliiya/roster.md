@@ -8,27 +8,27 @@ _Last updated: 2026-10-19 · Sources: D&D Beyond sheets (read 2026-10-19, campai
 - **D&D Beyond ID:** the number at the end of the character sheet URL. Claude reads the live sheet by ID or by name when the MCP is connected. Sheets are the source of truth for stats; HP on a sheet may be stale, so ask at session start.
 - **House items and homebrew:** homebrew feats and renamed or modified items. This is the fallback if the MCP misses them.
 - **Takeaways:** one in-character line per session from the player, newest first.
-- **HP on every sheet is short by exactly Con modifier × level** (e.g., Nelgron 28 vs. 38 standard; Hurintha 40 vs. 55). So the Constitution bonus isn't being added to anyone's HP. Either a house rule or a shared sheet setting; **confirm**. Until then, use the sheet values.
+- **Max HP includes Con modifier × level (2024), confirmed 2026-10-19.** D&D Beyond sheets in this campaign omit it, so add Con × level to every sheet's max HP. The table below shows corrected values. Players should fix their sheets.
 - **Campaign ID:** ? The join link (`…/campaigns/join/7366693837972439`) is an invite code, not the ID. The ID is the number in the URL when viewing the campaign page.
 
 ## Quick reference (from sheets)
 
 | Character | Species / class | Lvl | Max HP | AC | Save DC | D&D Beyond ID |
 |---|---|---|---|---|---|---|
-| Nelgron Illfigure | Tiefling Monk (Warrior of Mercy) | 5 | 28 | 18 | 13 (Focus) | ? (found by name) |
-| Hurintha | Goliath Barbarian (Ancestral Guardian, XGtE) | 5 | 40 | 15 | — | ? (by name) |
-| Melania | High Half-Elf Cleric (Trickery Domain) | 5 | 28 | 14 | 14 | **161441473** |
-| Arinir | Aasimar Rogue (Mastermind, SCAG) | 5 | 28 | 16 | — | ? (by name) |
-| Bubba Fatt | Wood Elf Ranger (Gloom Stalker) | 4 | 28 | 14 | — | ? (by name) |
-| Valerian | Half-Elf Druid (Circle of the Stars) | 3 | 18 | 11 | — | ? (by name) |
-| Theon Quillnacht | Dragonborn Fighter (Champion) | 3 | 22 | 16 | — | ? (by name) |
+| Nelgron Illfigure | Tiefling Monk (Warrior of Mercy) | 5 | 38 | 18 | 13 (Focus) | ? (found by name) |
+| Hurintha | Goliath Barbarian (Ancestral Guardian, XGtE) | 5 | 55 | 15 | — | ? (by name) |
+| Melania | High Half-Elf Cleric (Trickery Domain) | 5 | 38 | 14 | 14 | **161441473** |
+| Arinir | Aasimar Rogue (Mastermind, SCAG) | 5 | 38 | 16 | — | ? (by name) |
+| Bubba Fatt | Wood Elf Ranger (Gloom Stalker) | 4 | 36 | 14 | — | ? (by name) |
+| Valerian | Half-Elf Druid (Circle of the Stars) | 3 | 18 + Con×3 | 11 | — | ? (by name) |
+| Theon Quillnacht | Dragonborn Fighter (Champion) | 3 | 28 | 16 | — | ? (by name) |
 | The Bard | ? | ? | ? | ? | ? | ? (name unknown) |
 | Seressa | Sorceress | ? | ? | ? | ? | ? (sheet returned "403 Forbidden"; may be private) |
 
 ---
 
 ### Nelgron Illfigure — Tiefling Monk (Warrior of Mercy) 5
-- **Player:** ? · **D&D Beyond ID:** ? · **Sheet:** level 5, HP 28 (standard would be 38; see the table-wide HP note above), AC 18, speed 40, Focus 5, save DC 13. Background Charlatan. Feats: Skilled, Tavern Brawler, **Dark Bargain** (GM-discretion feat; terms unrecorded, ask the session lead).
+- **Player:** ? · **D&D Beyond ID:** ? · **Sheet:** level 5, max HP 38 (sheet shows 28; see the HP note above), AC 18, speed 40, Focus 5, save DC 13. Background Charlatan. Feats: Skilled, Tavern Brawler, **Dark Bargain** (GM-discretion feat; terms unrecorded, ask the session lead).
 - **Level note:** her log says level 3 with level 4 pending, justified by four "magnificent feats or saves" from her history. The sheet is at 5. Melania's sheet notes also ask for "4 magnificent actions," so this looks like a table-wide practice.
 - **Who she is:** 38, she. Thirty-plus years as a charlatan and con artist. Now a monk of the **Ember Quiet**, an Ilmateri order. Her faith is reluctant and arrives through practice, not belief. **Former aliases:** Seressa Vale, Nyx of the Ember Coast, Kala Redhand. **Mentor:** Master Rhen Tal, who insisted she train under her true name. **Contact:** a former mark turned informant.
 - **Key moments:** abandoned the party for treasure at the bog troll, came back, revived the Druid, and was struck down. Dug the Druid out of the avalanche. Revived the Priestess in Kiln Hall. At the House That Bears, took a killing blow meant for a dying woman, and her Warrior of Mercy abilities manifested. Ran between the fallen at the First Fire altar, reviving them while holding off the constructs. The only one who noticed that "eight went through, four are walking." Her sheet adds early beats not in the log: a reindeer barn, a portal puzzle with a "true cookie," and the final blow to a cursed crown that ended "the corruption of the Saint."
@@ -37,6 +37,7 @@ _Last updated: 2026-10-19 · Sources: D&D Beyond sheets (read 2026-10-19, campai
 - **Injuries:** permanent thigh scar (dire wolf); second scar (House That Bears); a minor leg bite from the serpent-worm (not serious).
 - **Carries:** the unknown key; the lost-weeks journals; broken white stones; the carved wooden peg; a cyclops gem-stone (if not consumed). Sheet adds: silver necklace, "Stones of Nord," boot attachments that float over snow. Sheet notes also name **Edrin Hockland, Lord Marshall** ("hand off to Terithians"); context unknown.
 - **Hooks / goals:** Mimon Tamberweed's offer of answers; the Stone at Davarn; the lost weeks; the Keeper's question.
+- **Session 2026-10-19:** soloed four magmins on the slope (two natural 20s; Tavern Brawler pushes against the Death Bursts). Found the gold seam. Diagnosed Arinir's ribs (Medicine 19). Carries 4 warm cinders. Possible "magnificent feat"; session lead to decide.
 - **Touchstone:** *"Suffering has chosen this road. It always does. The question is who will walk it without bitterness."*
 - **Keeps a chronicle:** Entries 1–31 so far (16 and 17 reserved, empty).
 - **Takeaways:** —
@@ -60,29 +61,30 @@ _Last updated: 2026-10-19 · Sources: D&D Beyond sheets (read 2026-10-19, campai
 ### Arinir — Aasimar Rogue (Mastermind) 5
 - **Player:** ? · **D&D Beyond ID:** ? · **Sheet:** max HP 28 (**shows 1/28**, probably stale from the escape), AC 16. Amulet of Proof against Detection and Location; **Lantern of Revealing** (the "hero's lantern" from the Dawn Titans temple); shortbow, shortsword, daggers.
 - **In play:** glowed like a torch during the Davarn shadow attack. Found the alternate route on the Twisted Path. Always flags something suspicious. **Shouted for Kaitlin to save herself**, and she did.
-- **Possibly seriously injured:** either Arinir or Bubba Fatt took a serious wound covering Kaitlin during the escape. Arinir's sheet showing 1/28 HP suggests it was him. **Confirm which one, and what the wound is.**
+- **Seriously injured (confirmed 2026-10-19):** **two cracked ribs** on his left side, taken covering Kaitlin's escape. Nothing punctured. Proposed lingering injury, pending the session lead: disadvantage on Str and Con checks and Dex (Acrobatics) until he receives Lesser Restoration or Heal, or completes 3 long rests under care. Nelgron's Hand of Healing applied (roll pending). HP 11/38 at the end of the session.
 - **[prep]** Had a mission to steal Brother Malven's ever-burning candle; the party received a portion of the flame instead.
 - **Hooks / goals:** ? · **Takeaways:** —
 
 ### Bubba Fatt — Wood Elf Ranger (Gloom Stalker) 4
 - **Player:** ? · **D&D Beyond ID:** ? · **Sheet:** HP 28 (21 shown), AC 14. Hunter's Mark, Disguise Self. Longbow, two hand crossbows, scimitar, shortsword, spear.
 - **In play:** infiltrated the embassy with Valerian and brought out the treaty fragments and the Factor letter. Dragged into the dark on the King's Highway; recovered with a grappling hook. Led the way onto the route against Saressa's warning.
-- **Possibly seriously injured:** either Bubba Fatt or Arinir took a serious wound covering Kaitlin during the escape. Arinir's sheet suggests it was Arinir. **Confirm.**
+- **Injury:** not the serious one (that was Arinir). His forearm is bruised from the climb. HP 29/36 at the end of the session.
 - **Hooks / goals:** ? · **Takeaways:** —
 
 ### Valerian — Half-Elf Druid (Circle of the Stars) 3
 - **Player:** ? · **D&D Beyond ID:** ? · **Sheet:** HP 18, AC 11. Quarterstaff, dagger.
 - **In play:** revived by Nelgron at the bog troll. A thunder spell set off the second avalanche; buried head-down, dug out by Nelgron. Found the lava tube. Infiltrated the embassy. Fell from the upper chain in Kiln Hall. Keeps the party's maps.
 - **Relationships:** owes Nelgron his life more than once.
+- **As of 2026-10-19:** separated from the party in the Underdark before the last couple of sessions. The collapse spread wide. He gets his own escape story when he rejoins; the steam column east of the hollow is a candidate.
 - **Hooks / goals:** ? · **Takeaways:** —
 
 ### Theon Quillnacht — Dragonborn Fighter (Champion) 3
 - **Player:** ? · **D&D Beyond ID:** ? · **Sheet:** HP 22, AC 16. Scimitar +1, chain mail.
-- **In play:** not in the log's current party list. Prep spotlights him on oaths and veterans (Moonfall Court). Still playing?
+- **In play:** not in the log's current party list. Prep spotlights him on oaths and veterans (Moonfall Court). **As of 2026-10-19:** waiting back in a town with the Bard (which town is to be decided).
 
 ### The Bard — name?
 - **Player:** ? · **D&D Beyond ID:** ?
-- **In play:** poisoned in the Davarn shadow attack and healed by Nelgron; disintegrated a wall.
+- **In play:** poisoned in the Davarn shadow attack and healed by Nelgron; disintegrated a wall. **As of 2026-10-19:** waiting back in a town with Theon (which town is to be decided).
 
 ### Seressa — Sorceress
 - **Player:** ? · **D&D Beyond ID:** ? (sheet lookup refused; may be private)
@@ -94,7 +96,7 @@ _Last updated: 2026-10-19 · Sources: D&D Beyond sheets (read 2026-10-19, campai
 
 ### Kaitlin — the decoy Caralyn (companion)
 - **Who she is:** a Hawklin **cousin**, also named Caralyn, used as bait so the hunters would waste themselves on the wrong target while the real Caralyn married King Haedrak III. The table usually calls her Kaitlin. **Use "Kaitlin" at the table.**
-- **In play:** captive in Kiln Hall; came home with the party (table canon; Nelgron's journal says otherwise). Travels with them now, her purpose spent: **[prep]** *"I no longer know who I am supposed to be."* Vanished at the Last Gate; back by the Sunless Sea. **Blasted a lightning bolt** from the ascent platform and **radiant bursts** against Zohir; no one knew she could. Ran for the altar to decipher it. **Offered the keeper's choice; ran.**
+- **In play:** captive in Kiln Hall; came home with the party (table canon; Nelgron's journal says otherwise). Travels with them now, her purpose spent: **[prep]** *"I no longer know who I am supposed to be."* Vanished at the Last Gate; back by the Sunless Sea. **Blasted a lightning bolt** from the ascent platform and **radiant bursts** against Zohir; no one knew she could. Ran for the altar to decipher it. **Offered the keeper's choice; ran.** **2026-10-19:** spoke again for the first time: she physically feels the mountain's shudders ("like something pulling"). Stays close to Nelgron and Arinir.
 - **Player:** NPC companion; no D&D Beyond sheet found under "Caralyn."
 - **DM note:** her power's source and why the temple chose her are open. **[prep]** She is not secretly destined; the mechanism found her viable. Keep her a person with agency, angry that others keep deciding her worth.
 

@@ -35,7 +35,7 @@ The campaign has turned from a political kidnapping into something older: an anc
 - **Ormpetarr:** home base in Chondath, where the moon chant carried the party. **[prep]** Its rulers want the Amn connection handled quietly.
 - **The Ember Quiet:** an Ilmateri order. Its monastery is where Nelgron trained; its Elder keeps a hospice for the dying, the "House That Bears."
 - **The Chondalwood ("Chondalla Woods"):** a hostile, fey forest with shifting paths and drunk satyrs.
-- **The Adder Peaks ("Mt. Aider"):** deep snow, avalanches, chained basalt-haulers on the volcano slope.
+- **The Adder Peaks ("Mt. Aider"):** deep snow, avalanches, chained basalt-haulers on the volcano slope. **The basalt hollow:** a hidden bowl of hexagonal columns with a warm vent, ¼ mile west of where the party came out of the tube, out of sight of Karrag-Dum. A switchback hauling road runs below toward the city.
 - **Karrag-Dum, "The Burning Anvil":** fire giant city with black basalt spires, a temple of Surtur, slave pens run by Azer, and an Amnian embassy. Map: `archive/maps/karrag-dum-city.png`. The party emerged outside it after the Dawn Titans; the log calls that identification unconfirmed, but prep and the Twisted Path overlook both point to it.
 - **The party's lava tube:** a cooled tube into the closed market, used as a hidden base. The giants may not know it exists.
 - **The Emerald Way:** the unwatched northern road to Davarn through millennia-dead cities.
@@ -134,7 +134,8 @@ The log says the others "took other work in Ormpetarr." *The Lanterns Beneath Mo
 - **The temple's unexplored parts.**
 - **Amn and the giants:** the letter could still turn the queen against Amn; the party now stands outside her city.
 - **The fungus on Nelgron's pack.** (Her Corpse Rot was healed at the Myconid Garden.)
-- **A serious wound** taken by the Ranger or the Rogue while covering Kaitlin's escape. Which one, and what it is, is unconfirmed.
+- **Arinir's cracked ribs** from covering Kaitlin's escape (confirmed 2026-10-19).
+- **The mountain is waking (2026-10-19):** magmins rising from melted circles on the slope; a pale gold seam of light in the rock, pulsing and running east; a fresh steam/ash column 3–4 miles east; Karrag-Dum's lights all dimming during a shudder. Kaitlin feels it physically. **DM-ONLY:** a symptom of the loosening chains after Kaitlin's refusal. The gold seam is a chain of light under the earth; east lies another station, or the route Valerian took out.
 
 ## To resolve
 1. Is prep-"Seressa" (the patron) the same person as Saressa the Cowled Wizard?

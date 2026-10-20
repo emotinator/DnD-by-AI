@@ -4,7 +4,9 @@ _Last updated: 2026-10-19 · Arc 1 (Lapaliiya to the royal decree) is in `archiv
 
 ## Where we left off
 
-Night, in the Adder Peaks, before the Burning Anvil (Karrag-Dum). The party has just climbed a collapsing lava tube out of the Temple of the First Fire, badly hurt. Below the Sunless Sea, Kaitlin was offered the keeper's choice: hold the chains with her life, or save herself. The Rogue shouted for her to run, and she ran. Two of seven chains are broken. The Mind Flayer was smashed by the temple's constructs and may be dead. Zohir faded away rather than died. The Ranger or the Rogue (probably Arinir) took a serious wound covering Kaitlin's escape. Nobody in the city above knows they're here yet.
+**Session 2026-10-19, "Out of the Dark"** (`sessions/2026-10-19-out-of-the-dark.md`). Night, in a hidden basalt hollow with a warm vent, about ¼ mile west of where the lava tube came out in the Adder Peaks, south of Karrag-Dum. The party is about to begin a long rest. **Still pending at the table:** the watch order and the night itself; Arinir's Hand of Healing roll (1d8+2); whether his cracked ribs are a lingering injury. Present: Nelgron, Hurintha, Melania, Arinir, Bubba Fatt, and Kaitlin, who is speaking again. Valerian is separated (his own escape story, possibly tied to the steam column to the east). Theon and the Bard are back in a town (to be decided). HP now uses the 2024 Con bonus. Party at the end of the session: Nelgron 29/38, Hurintha 55/55, Melania 36/38, Arinir 11/38 (+ heal pending), Bubba Fatt 29/36.
+
+_Before that session:_ Night, in the Adder Peaks, before the Burning Anvil (Karrag-Dum). The party has just climbed a collapsing lava tube out of the Temple of the First Fire, badly hurt. Below the Sunless Sea, Kaitlin was offered the keeper's choice: hold the chains with her life, or save herself. The Rogue shouted for her to run, and she ran. Two of seven chains are broken. The Mind Flayer was smashed by the temple's constructs and may be dead. Zohir faded away rather than died. Arinir took a serious wound (two cracked ribs, confirmed 2026-10-19) covering Kaitlin's escape. Nobody in the city above knows they're here yet.
 
 ## Adventures in this arc
 
@@ -16,6 +18,7 @@ Night, in the Adder Peaks, before the Burning Anvil (Karrag-Dum). The party has 
 | 12 | **The Twisted Path** | Members replaced by others with the same names; no one cares. A walking loop. A fungal crab; the egg, taken as a portent and traded to a myconid for broken white stones ("They who cling to the ceiling"). The amnesiac Mind Flayer joins ("remember us"). An ooze, killed with one palm strike, leaving a carved wooden peg. The overlook: a city hanging from the ceiling over a black sea. | `a12-the-twisted-path.md` |
 | 13 | **The Temple (Tower) that Spite Built** | The Priestess and Kaitlin reappear. Three cyclopes ferry the party to "the Stone in the Water." The ascent platform, a manticore, Kaitlin's lightning, the bridge-cutters, a shambling mound. Seven chains: one glowing, one broken. A rune-staircase puzzle; rock-like humanoids. The Flayer's memory: "We cannot destroy it. We must bind it, in seven places." **Zohir**: "You think it was built to contain something…" She faded away; another chain broke and the tower fell. | `a13-the-tower-that-spite-built.md` |
 | 14–15 | **The Dawn Titans** | Cyclopes' gem-stones for everyone ("I sense this may be needed"). The serpent-worm bit Nelgron's leg (minor) and escaped, not killed. The bronze door opened with the gems. Visions of the binding and the seven stations. The altar fight: constructs smash the Flayer; Nelgron revives the fallen; the altar's three readings. The roof opens on five chains. **Kaitlin's choice: she runs.** The climb out to the Burning Anvil; the Ranger or the Rogue is badly hurt covering her. | `a14-15-dawn-titans.md` |
+| 16 | **Out of the Dark** (2026-10-19) | Out on the Adder Peaks at night. Nelgron scouted alone and soloed four magmins that rose from melted circles in the snow; a gold seam of light pulsed and ran east. Karrag-Dum's lights dimmed together with a mountain shudder. Kaitlin spoke: "I felt it. Like something pulling." Arinir has two cracked ribs. The party moved to a hidden basalt hollow to long rest. | — |
 
 ## Live threads
 - What Kaitlin's refusal sets loose, and when.
@@ -24,7 +27,11 @@ Night, in the Adder Peaks, before the Burning Anvil (Karrag-Dum). The party has 
 - The Mind Flayer's fate.
 - The Fire's name; the five remaining chains.
 - The coin to Factor Valance; the exchange owed to Manco.
-- The serious wound from covering Kaitlin (Ranger or Rogue; confirm).
+- Arinir's cracked ribs from covering Kaitlin (lingering injury? pending).
+- The gold seam running east, and the steam/ash column 3–4 miles east along the ridge. Valerian's way out?
+- Elementals rising from the mountain; Karrag-Dum's lights dimming with the shudders. Do the giants notice?
+- Kaitlin feels the shudders "here, like something pulling."
+- Theon and the Bard: which town are they in?
 - The fungus on Nelgron's pack.
 - The lost weeks: the key, the journals, and six unused fragments: a blister ledger, mis-tied gems, a chess floor, a large shape at a distance, a tower overlooking a town, writing at night.
 - The Keeper's question, if they ever go back through the Last Gate.
