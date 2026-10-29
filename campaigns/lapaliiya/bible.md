@@ -13,7 +13,7 @@ The campaign has turned from a political kidnapping into something older: an anc
 **What the party knows (from play):**
 - Before the gods, "the First Fire burned without a keeper." Seven figures of different shapes and sizes bound immense elemental beings, "what could not be destroyed," in **seven places**, with chains of light spread through the earth.
 - The bindings are made of memory: *"Seven memories became seven chains… what is bound and not remembered will one day be forgotten."*
-- Altar readings at the temple: *"The First Fire cannot be commanded… cannot be fed with death alone. Let the broken be acknowledged. Let the bound be remembered. Let the keeper choose."* And: *"Speak what was lost. Remember what was bound. Give the Fire its name again."* The Fire's name is unknown.
+- Altar readings at the temple: *"The First Fire cannot be commanded… cannot be fed with death alone. Let the broken be acknowledged. Let the bound be remembered. Let the keeper choose."* And: *"Speak what was lost. Remember what was bound. Give the Fire its name again."* The Fire's name is unknown. **[prep]** Per `archive/prep/prep-chat-a13-15-notes.md`, "giving the Fire its name" is a declaration of purpose, not a secret name: *"We remember those who came before. We remember those who were bound. We choose what we will carry forward."* The inscription's final words: *"A prison may endure beyond its makers. Only the living can decide whether it should."*
 - Primordial floor runes: *"When the first fire faltered, seven hands held the world together."*
 - The hanging tower was one of the seven stations. It fell when its chain broke during the fight with Zohir.
 - Across the campaign, memory has been eroding: Mussum's forgetful monks, Shamph's blank archives, stripped memories, the lost three weeks, the nameless riders. This appears to be the bindings failing.
@@ -65,7 +65,7 @@ A merchant nation that outsources violence. Its embassy in Karrag-Dum is staffed
 
 ### The Cowled Wizards (Amn's licensed mages)
 - **Saressa**, a Cowled Wizard, speaks through a coin the party carries. She warned them to stay on the path and keep to the white stones. The coin is to go to Factor Valance on her behalf.
-- **[prep]** The prep's patron "**Seressa**" fits Saressa's role: she has been below before, is genuinely worried, and doesn't know everything. She offered maps, political cover, limited magic, and the truth that the giants were manipulated. **Confirm whether prep-Seressa is Saressa.** (Not the party sorceress Seressa, and not Nelgron's old alias Seressa Vale.)
+- **[prep]** The prep's patron "**Seressa**" fits Saressa's role: she has been below before, is genuinely worried, and doesn't know everything. She offered maps, political cover, limited magic, and the truth that the giants were manipulated. **Resolved 2026-10-28:** the previous DM's prep chat has the coin's voice as Seressa, so prep-Seressa and Saressa are the same person (name drift). **DM-ONLY [prep]:** she isn't fully honest. She knows the Tower-type structures as "anchors" from her own research into magical disturbances beneath Karrag-Dum, and she is tempted by what they can do. See `archive/prep/prep-chat-a13-15-notes.md`. (Not the party sorceress Seressa, and not Nelgron's old alias Seressa Vale.)
 
 ### The fire giants of Karrag-Dum
 - **Ruled by a queen of the Embercrown line** (from the Factor letter). **[prep]** Suggested name: **Queen Hrothgarda Embercrown**; confirm.
@@ -135,10 +135,11 @@ The log says the others "took other work in Ormpetarr." *The Lanterns Beneath Mo
 - **Amn and the giants:** the letter could still turn the queen against Amn; the party now stands outside her city.
 - **The fungus on Nelgron's pack.** (Her Corpse Rot was healed at the Myconid Garden.)
 - **Arinir's cracked ribs** from covering Kaitlin's escape (confirmed 2026-10-19).
+- **Paz's spring (2026-10-28):** a sacred spring and fey crossing higher on the Adder Peaks, tended by Paz. It boiled during the shudder, and the growth around it turned black and twisted. Paz blames corruption bleeding out of Karrag-Dum ("Keryd-Dum") and reads it as abyssal. **DM-ONLY: undecided.** What's really poisoning it: the loosening chains (primordial fire waking), Amn's excavation hitting a binding seam, or Spite's corruption with the tower's signature. The prep has no abyssal cult; add one as a faction only if the session lead wants. The spring's name is a placeholder.
 - **The mountain is waking (2026-10-19):** magmins rising from melted circles on the slope; a pale gold seam of light in the rock, pulsing and running east; a fresh steam/ash column 3–4 miles east; Karrag-Dum's lights all dimming during a shudder. Kaitlin feels it physically. **DM-ONLY:** a symptom of the loosening chains after Kaitlin's refusal. The gold seam is a chain of light under the earth; east lies another station, or the route Valerian took out.
 
 ## To resolve
-1. Is prep-"Seressa" (the patron) the same person as Saressa the Cowled Wizard?
+1. ~~Is prep-"Seressa" the same person as Saressa?~~ Yes (resolved 2026-10-28). Still open: who holds the **Cloak of the Manta Ray** from the Drowned City, if it was found; and whether the "Are we remembered?" voice was used at the finale.
 2. Which PC names go with which characters (see roster).
 3. How did *The Lanterns Beneath Moonfall Court* end (Sister Vaelis, the Lantern Below)?
 4. The real Caralyn's house: the decree says Lady Caralyn Hawklin and a Tethyr–Lapaliiya alliance, so she is probably Lapaliiyan, not Chondathan as the old bible said.

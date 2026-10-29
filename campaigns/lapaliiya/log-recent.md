@@ -1,10 +1,12 @@
 # Recent Sessions — Arc 2: The Memory Road and the Seven Chains
 
-_Last updated: 2026-10-19 · Arc 1 (Lapaliiya to the royal decree) is in `archive/arc-1-summary.md`. Source for this arc: Nelgron's event log, Parts 4–6 (`archive/chronicles/nelgron-campaign-event-log-entries-1-31.md`). Prep for each adventure is in `archive/prep/`. Per-session files for this arc haven't been written; the log is the detailed record._
+_Last updated: 2026-10-28 · Arc 1 (Lapaliiya to the royal decree) is in `archive/arc-1-summary.md`. Source for this arc: Nelgron's event log, Parts 4–6 (`archive/chronicles/nelgron-campaign-event-log-entries-1-31.md`). Prep for each adventure is in `archive/prep/`. Per-session files for this arc haven't been written; the log is the detailed record._
 
 ## Where we left off
 
-**Session 2026-10-19, "Out of the Dark"** (`sessions/2026-10-19-out-of-the-dark.md`). Night, in a hidden basalt hollow with a warm vent, about ¼ mile west of where the lava tube came out in the Adder Peaks, south of Karrag-Dum. The party is about to begin a long rest. **Still pending at the table:** the watch order and the night itself; Arinir's Hand of Healing roll (1d8+2); whether his cracked ribs are a lingering injury. Present: Nelgron, Hurintha, Melania, Arinir, Bubba Fatt, and Kaitlin, who is speaking again. Valerian is separated (his own escape story, possibly tied to the steam column to the east). Theon and the Bard are back in a town (to be decided). HP now uses the 2024 Con bonus. Party at the end of the session: Nelgron 29/38, Hurintha 55/55, Melania 36/38, Arinir 11/38 (+ heal pending), Bubba Fatt 29/36.
+**Session 2026-10-19, "Out of the Dark"** (`sessions/2026-10-19-out-of-the-dark.md`). Night, in a hidden basalt hollow with a warm vent, about ¼ mile west of where the lava tube came out in the Adder Peaks, south of Karrag-Dum. The party is about to begin a long rest. **Still pending at the table:** the watch order and the night itself; whether Arinir's cracked ribs are a lingering injury. Present: Nelgron, Hurintha, Melania, Arinir, Bubba Fatt, and Kaitlin, who is speaking again. Valerian is separated (his own escape story, possibly tied to the steam column to the east). Theon and the Bard are back in a town (to be decided). HP now uses the 2024 Con bonus. Party at the end of the session: Nelgron 29/38, Hurintha 55/55, Melania 36/38, Arinir 16/38 (after Hand of Healing, +5), Bubba Fatt 29/36.
+
+**Between sessions (play-by-post on Discord, drafted 2026-10-28; posting pending):** Bubba Fatt slips away during his night watch (his player is retiring him; the reason is still open). At dawn the party wakes to find him gone, his prints fading on wind-scoured rock, and wolf tracks circling the hollow, including two sets of huge prints (winter wolves) that never came inside. **Paz**, a Fairy Cleric of Peace, arrives by chance. Paz knows the party only "metaphysically": Paz's sacred spring and fey crossing higher on the mountain boiled in the night, the growth around it turned black, and Paz needs mortal muscle to stop the corruption Paz believes is bleeding out of Karrag-Dum. Another new character is coming, to be met in the wilds. Valerian is still missing.
 
 _Before that session:_ Night, in the Adder Peaks, before the Burning Anvil (Karrag-Dum). The party has just climbed a collapsing lava tube out of the Temple of the First Fire, badly hurt. Below the Sunless Sea, Kaitlin was offered the keeper's choice: hold the chains with her life, or save herself. The Rogue shouted for her to run, and she ran. Two of seven chains are broken. The Mind Flayer was smashed by the temple's constructs and may be dead. Zohir faded away rather than died. Arinir took a serious wound (two cracked ribs, confirmed 2026-10-19) covering Kaitlin's escape. Nobody in the city above knows they're here yet.
 
@@ -32,6 +34,10 @@ _Before that session:_ Night, in the Adder Peaks, before the Burning Anvil (Karr
 - Elementals rising from the mountain; Karrag-Dum's lights dimming with the shudders. Do the giants notice?
 - Kaitlin feels the shudders "here, like something pulling."
 - Theon and the Bard: which town are they in?
+- Bubba Fatt's departure: why he left (player to choose). He's available as an NPC later.
+- Paz's boiled spring and fey crossing up the mountain: what is really corrupting it (DM-only, undecided; see `bible.md`).
+- The winter wolf pack circling the hollow: hungry, and they speak Common and Giant. An ambush is prepped if the party stays another night.
+- A second new character to meet in the wilds (class to be decided).
 - The fungus on Nelgron's pack.
 - The lost weeks: the key, the journals, and six unused fragments: a blister ledger, mis-tied gems, a chess floor, a large shape at a distance, a tower overlooking a town, writing at night.
 - The Keeper's question, if they ever go back through the Last Gate.
