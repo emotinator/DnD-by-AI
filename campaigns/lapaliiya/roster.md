@@ -1,6 +1,6 @@
 # Party Roster
 
-_Last updated: 2026-10-19 · Sources: D&D Beyond sheets (read 2026-10-19, campaign "Lapaliiya", DM TrevorDreher, 8 players), Nelgron's event log (Entries 1–31), and the previous DM's prep. **Party levels are mixed, 3–5, per the sheets.** Confirm whether the lower sheets are behind or the characters really are._
+_Last updated: 2026-10-28 · Sources: D&D Beyond sheets (read 2026-10-19; Paz read 2026-10-28, campaign "Lapaliiya", DM TrevorDreher, 8 players), Nelgron's event log (Entries 1–31), and the previous DM's prep. **Party levels are mixed, 3–5, per the sheets.** Confirm whether the lower sheets are behind or the characters really are._
 
 **The party's makeup is unstable by design.** In "The King that Crawls," eight went through the Last Gate and four were walking; on the Twisted Path some members were replaced by different people answering to the same names; later the missing returned. **Don't "correct" the party count.** Ask the session lead who is present.
 
@@ -22,6 +22,7 @@ _Last updated: 2026-10-19 · Sources: D&D Beyond sheets (read 2026-10-19, campai
 | Bubba Fatt | Wood Elf Ranger (Gloom Stalker) | 4 | 36 | 14 | — | ? (by name) |
 | Valerian | Half-Elf Druid (Circle of the Stars) | 3 | 18 + Con×3 | 11 | — | ? (by name) |
 | Theon Quillnacht | Dragonborn Fighter (Champion) | 3 | 28 | 16 | — | ? (by name) |
+| Paz | Fairy Cleric (Peace Domain, TCoE) | 5 | 38 | 11 | 15 | **172679115** |
 | The Bard | ? | ? | ? | ? | ? | ? (name unknown) |
 | Seressa | Sorceress | ? | ? | ? | ? | ? (sheet returned "403 Forbidden"; may be private) |
 
@@ -61,7 +62,7 @@ _Last updated: 2026-10-19 · Sources: D&D Beyond sheets (read 2026-10-19, campai
 ### Arinir — Aasimar Rogue (Mastermind) 5
 - **Player:** ? · **D&D Beyond ID:** ? · **Sheet:** max HP 28 (**shows 1/28**, probably stale from the escape), AC 16. Amulet of Proof against Detection and Location; **Lantern of Revealing** (the "hero's lantern" from the Dawn Titans temple); shortbow, shortsword, daggers.
 - **In play:** glowed like a torch during the Davarn shadow attack. Found the alternate route on the Twisted Path. Always flags something suspicious. **Shouted for Kaitlin to save herself**, and she did.
-- **Seriously injured (confirmed 2026-10-19):** **two cracked ribs** on his left side, taken covering Kaitlin's escape. Nothing punctured. Proposed lingering injury, pending the session lead: disadvantage on Str and Con checks and Dex (Acrobatics) until he receives Lesser Restoration or Heal, or completes 3 long rests under care. Nelgron's Hand of Healing applied (roll pending). HP 11/38 at the end of the session.
+- **Seriously injured (confirmed 2026-10-19):** **two cracked ribs** on his left side, taken covering Kaitlin's escape. Nothing punctured. Proposed lingering injury, pending the session lead: disadvantage on Str and Con checks and Dex (Acrobatics) until he receives Lesser Restoration or Heal, or completes 3 long rests under care. Nelgron's Hand of Healing restored 5. HP 16/38 going into the long rest.
 - **[prep]** Had a mission to steal Brother Malven's ever-burning candle; the party received a portion of the flame instead.
 - **Hooks / goals:** ? · **Takeaways:** —
 
@@ -69,6 +70,14 @@ _Last updated: 2026-10-19 · Sources: D&D Beyond sheets (read 2026-10-19, campai
 - **Player:** ? · **D&D Beyond ID:** ? · **Sheet:** HP 28 (21 shown), AC 14. Hunter's Mark, Disguise Self. Longbow, two hand crossbows, scimitar, shortsword, spear.
 - **In play:** infiltrated the embassy with Valerian and brought out the treaty fragments and the Factor letter. Dragged into the dark on the King's Highway; recovered with a grappling hook. Led the way onto the route against Saressa's warning.
 - **Injury:** not the serious one (that was Arinir). His forearm is bruised from the climb. HP 29/36 at the end of the session.
+- **Departing (player's choice, 2026-10-21):** slips away during his night watch in the basalt hollow; the player is rolling a new character (Paz). How and why he goes is still to be chosen: drafted options are following the gold seam east, slipping back into Karrag-Dum, "something answered", or a quiet goodbye. Keep him available as an NPC.
+- **Hooks / goals:** ? · **Takeaways:** —
+
+### Paz — Fairy Cleric (Peace Domain) 5
+- **Player:** Bubba Fatt's player · **D&D Beyond ID:** 172679115 · **Sheet (read 2026-10-28):** level 5, max HP 38 (sheet shows 28; add Con), AC 11 (no armor equipped yet, though proficient in heavy armor and shields), speed 30 plus Fairy flight (not in medium or heavy armor). Spell save DC 15, attack +7. Wis 19, Cha 16. Background Acolyte. Feats: Magic Initiate (Cleric), Hero's Journey Boon, **Dark Bargain** (the same GM-discretion feat as Nelgron), Character Threads, Runestones (homebrew or table feats; terms unrecorded). Peace Domain: Emboldening Bond (the sheet shows 0/0 uses; should be proficiency bonus per long rest), Balm of Peace.
+- **Sheet gaps:** only Fairy Magic spells show as prepared (Faerie Fire, Enlarge/Reduce), and there's no backstory or notes. Ask the player to finish the sheet.
+- **In play:** joins as Bubba Fatt departs. A **chance encounter** at dawn in the basalt hollow. Paz knows the party only "metaphysically" (has sensed or dreamed them) and has never met them. **Motive (player's answer, 2026-10-28):** stopping the corruption of primal nature. Paz tends a sacred spring and fey crossing higher on the mountain; overnight it boiled and the growth around it turned black and twisted. Paz believes the rot is bleeding out of "Keryd-Dum" (the player's name for Karrag-Dum; the player frames it as abyssal cults and dark curses) and needs mortal muscle, since faeries are fragile and trick-oriented. Session lead chose the "shrine boiled dry" option.
+- **Also coming:** another player is rolling a new character, to be met somewhere in the wilds (class to be decided).
 - **Hooks / goals:** ? · **Takeaways:** —
 
 ### Valerian — Half-Elf Druid (Circle of the Stars) 3
