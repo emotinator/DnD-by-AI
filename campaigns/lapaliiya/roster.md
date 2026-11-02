@@ -1,6 +1,6 @@
 # Party Roster
 
-_Last updated: 2026-10-28 · Sources: D&D Beyond sheets (read 2026-10-19; Paz read 2026-10-28, campaign "Lapaliiya", DM TrevorDreher, 8 players), Nelgron's event log (Entries 1–31), and the previous DM's prep. **Party levels are mixed, 3–5, per the sheets.** Confirm whether the lower sheets are behind or the characters really are._
+_Last updated: 2026-11-01 · Sources: D&D Beyond sheets (read 2026-10-19; Paz read 2026-10-28, campaign "Lapaliiya", DM TrevorDreher, 8 players), Nelgron's event log (Entries 1–31), and the previous DM's prep. **Party levels are mixed, 3–5, per the sheets.** Confirm whether the lower sheets are behind or the characters really are._
 
 **The party's makeup is unstable by design.** In "The King that Crawls," eight went through the Last Gate and four were walking; on the Twisted Path some members were replaced by different people answering to the same names; later the missing returned. **Don't "correct" the party count.** Ask the session lead who is present.
 
@@ -46,6 +46,7 @@ _Last updated: 2026-10-28 · Sources: D&D Beyond sheets (read 2026-10-19; Paz re
 ### Hurintha — Goliath Barbarian (Path of the Ancestral Guardian) 5
 - **Player:** Elmer? · **D&D Beyond ID:** ? · **Sheet:** HP 40, AC 15. Greataxe +1, Silver Eagle Greataxe, handaxe, heavy crossbow.
 - **In play:** broke for high ground alone in the Adder Peaks and came back under arrow fire. The log's "Barbarian" and "Goliath" are both her. Prep spells her "Huretha"; Keeper's question "Who are your people?"
+- **Away for a couple of sessions (player's choice, noted 2026-11-01):** Hurintha heads back to the dwarven town (Davarn) to rejoin **Dave**, who is waiting there. A noble, in-character reason and the moment she leaves are being worked out at the table; see `log-recent.md`. Keep her available to return.
 - **Hooks / goals:** ? · **House items and homebrew:** Silver Eagle Greataxe (origin?) · **Takeaways:** —
 
 ### Melania — High Half-Elf Cleric (Trickery Domain) 5, priestess of Loki
@@ -77,6 +78,7 @@ _Last updated: 2026-10-28 · Sources: D&D Beyond sheets (read 2026-10-19; Paz re
 - **Player:** Bubba Fatt's player · **D&D Beyond ID:** 172679115 · **Sheet (read 2026-10-28):** level 5, max HP 38 (sheet shows 28; add Con), AC 11 (no armor equipped yet, though proficient in heavy armor and shields), speed 30 plus Fairy flight (not in medium or heavy armor). Spell save DC 15, attack +7. Wis 19, Cha 16. Background Acolyte. Feats: Magic Initiate (Cleric), Hero's Journey Boon, **Dark Bargain** (the same GM-discretion feat as Nelgron), Character Threads, Runestones (homebrew or table feats; terms unrecorded). Peace Domain: Emboldening Bond (the sheet shows 0/0 uses; should be proficiency bonus per long rest), Balm of Peace.
 - **Sheet gaps:** only Fairy Magic spells show as prepared (Faerie Fire, Enlarge/Reduce), and there's no backstory or notes. Ask the player to finish the sheet.
 - **In play:** joins as Bubba Fatt departs. A **chance encounter** at dawn in the basalt hollow. Paz knows the party only "metaphysically" (has sensed or dreamed them) and has never met them. **Motive (player's answer, 2026-10-28):** stopping the corruption of primal nature. Paz tends a sacred spring and fey crossing higher on the mountain; overnight it boiled and the growth around it turned black and twisted. Paz believes the rot is bleeding out of "Keryd-Dum" (the player's name for Karrag-Dum; the player frames it as abyssal cults and dark curses) and needs mortal muscle, since faeries are fragile and trick-oriented. Session lead chose the "shrine boiled dry" option.
+- **More from the player (2026-11-01):** Paz is a member of the **Lucht Síochána** ("people of peace"), followers of **Eldath**, goddess of peace and still waters, which fits the Peace Domain. She felt a disturbance (the player's words: "a disturbance in the force"). **The Pool of Lucht Síochána dried up overnight.** She followed "a break in the natural path" **to Kaitlin**, not to the party in general. So her opening line "It's *you*" is aimed at Kaitlin. Kaitlin herself feels the shudders "like something pulling"; see `bible.md`.
 - **Also coming:** another player is rolling a new character, to be met somewhere in the wilds (class to be decided).
 - **Hooks / goals:** ? · **Takeaways:** —
 
@@ -85,7 +87,10 @@ _Last updated: 2026-10-28 · Sources: D&D Beyond sheets (read 2026-10-19; Paz re
 - **In play:** revived by Nelgron at the bog troll. A thunder spell set off the second avalanche; buried head-down, dug out by Nelgron. Found the lava tube. Infiltrated the embassy. Fell from the upper chain in Kiln Hall. Keeps the party's maps.
 - **Relationships:** owes Nelgron his life more than once.
 - **As of 2026-10-19:** separated from the party in the Underdark before the last couple of sessions. The collapse spread wide. He gets his own escape story when he rejoins; the steam column east of the hollow is a candidate.
-- **Hooks / goals:** ? · **Takeaways:** —
+- **His side of the split (player's journal, 2026-11-01):** Valerian is a surveyor at heart; he reads strata and lichen as maps. In a side passage he found bioluminescent lichen growing along an unnaturally geometric fracture in passages "swept smooth by something deliberate." Hurintha shouldered through a fortified door into a cluttered underground redoubt: **Euzarg**, a frantic wizard cursing an archivist named **Trevandor**, amid stacked crates and old tomes. Hurintha eyed an arcane amulet. Theon and "the princess" (Kaitlin, presumably) were with them. There the **Codex of the First Root** stopped humming and *bit*: it scorched its runes into the skin under his ribs and pointed him through a hairline crack behind Euzarg's deepest book alcove that leaked cold air and planar static. He has been alone in the dark "three cycles, or three weeks" since. **To reconcile:** how Euzarg's sanctuary fits with Kiln Hall and the collapse, and Theon's presence there (Theon is otherwise "in a town"). The second journal entry may continue.
+- **Return (drafted 2026-11-01, not yet played):** the Codex leads him up to the surface, where he follows the **gold seam** west along the ridge, crosses the wolf tracks, and finds the party in the basalt hollow at dawn, just after Paz arrives and Bubba is found gone. Suggested cost of the weeks underground: 1 level of Exhaustion, removed by a long rest (session lead to confirm). Current HP unknown; ask.
+- **House item: Codex of the First Root** (draft, under discussion). His Circle of the Stars Star Map and focus; grows with him. Starts light. Full draft in `house-rules.md` → Homebrew.
+- **Hooks / goals:** the Codex and what it wants; the Order of the Eclipsed Page hunting its pings (see `bible.md`). · **Takeaways:** —
 
 ### Theon Quillnacht — Dragonborn Fighter (Champion) 3
 - **Player:** ? · **D&D Beyond ID:** ? · **Sheet:** HP 22, AC 16. Scimitar +1, chain mail.
@@ -110,6 +115,7 @@ _Last updated: 2026-10-28 · Sources: D&D Beyond sheets (read 2026-10-19; Paz re
 - **DM note:** her power's source and why the temple chose her are open. **[prep]** She is not secretly destined; the mechanism found her viable. Keep her a person with agency, angry that others keep deciding her worth.
 
 ### Dave — an ox
+- **Waiting at the dwarven town (Davarn)**, per the session lead (2026-11-01). He is *not* with the party in the Adder Peaks; earlier drafts that showed him at the hollow were wrong.
 
 ### The Mind Flayer — unnamed, amnesiac
 - Joined at the oasis on the Twisted Path. Smashed first by the temple constructs; fate unrecorded. Ask the session lead before using him.

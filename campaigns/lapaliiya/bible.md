@@ -1,6 +1,6 @@
 # Campaign Bible
 
-_Last updated: 2026-10-19 · Sources: Nelgron's campaign event log, Entries 1–31 through "The Dawn Titans" (canon for what was played; `archive/chronicles/nelgron-campaign-event-log-entries-1-31.md`), and the previous DM's prep notes (`archive/prep/`). Prep is background only and is marked **[prep]** wherever play hasn't confirmed it. Where play and prep differ, play wins._
+_Last updated: 2026-11-01 · Sources: Nelgron's campaign event log, Entries 1–31 through "The Dawn Titans" (canon for what was played; `archive/chronicles/nelgron-campaign-event-log-entries-1-31.md`), and the previous DM's prep notes (`archive/prep/`). Prep is background only and is marked **[prep]** wherever play hasn't confirmed it. Where play and prep differ, play wins._
 
 ## The situation now
 
@@ -81,6 +81,11 @@ An Ilmateri order. Its Elder runs a hospice for the dying and gave Nelgron menia
 - **Shar:** **[prep]** defiled Selûnite sites (the Temple Below the Snow was a Selûnite temple; the gnoll priestess's ritual at the chasm was Sharran). Prep ending option: if not fully stopped, "shadows spill into the Shaar later."
 - **[prep]** Sister Vaelis and the Lantern Below (see Ormpetarr side arc, below).
 
+### The Order of the Eclipsed Page **[adopted 2026-11-01; built into Valerian's backstory, details to grow]**
+An order that hunts the **Codex of the First Root**. Every time Valerian syncs with the Codex, a magical pulse runs through the ley lines and gives them his position (the threat tracker in `house-rules.md`). Their hunters are scouts and **Elite Censors**. Session lead's direction: **keep it light at the start** and let it rise as Valerian levels.
+- **DM-ONLY, suggested and unconfirmed:** **Trevandor**, the archivist the wizard Euzarg was cursing, is one of them. That would explain Euzarg's hoarded, half-hidden tomes and why the Codex woke in his sanctuary.
+- **DM-ONLY, undecided:** what the Order wants with the Codex (to recover it, censor it, or erase what it records). It fits the campaign's theme of memory being erased, so it could link to the failing bindings. The Codex's name echoes the **Temple of the First Fire**; whether the "First Root" is tied to the First Fire is undecided.
+
 ### The cyclops pilgrims
 Three cyclopes ferry pilgrims across the Sunless Sea, once mislabelled "ogres." They said the hanging structures "weren't there a fortnight ago" and the chains have grown louder. They gave every party member an identical gem-stone, and one said of Kaitlin: *"I sense this may be needed."* They know more than they say. **[prep]** Leader: **Ogrun Stone-Eye** (not named in play).
 
@@ -103,6 +108,8 @@ Three cyclopes ferry pilgrims across the Sunless Sea, once mislabelled "ogres." 
 | The Halfling | Amnian envoy | Active | Possibly the Factor. |
 | Queen of the Embercrown line | Fire giant ruler | Unseen | Amn has replacements ready. |
 | The Huge giant of Kiln Hall | Fire giant | Active | Killed a smaller fire giant. Clan and motive unknown. |
+| **Euzarg** | Frantic wizard in an underground redoubt | Active | From Valerian's journal (2026-11-01): Hurintha broke down his fortified door; he paces, curses the archivist Trevandor, and hoards crates and tomes. Hurintha eyed an arcane amulet there. Location relative to Kiln Hall and the collapse to be reconciled. |
+| **Trevandor** | Archivist (offstage) | Unknown | Euzarg curses him. **DM-ONLY suggestion:** Order of the Eclipsed Page. |
 | The elderly Ilmateri monk | East market, Lapaliiya | — | *"Suffering has chosen this road… who will walk it without bitterness."* A touchstone for Nelgron's player. |
 
 ## Evidence and items the party holds
@@ -135,7 +142,8 @@ The log says the others "took other work in Ormpetarr." *The Lanterns Beneath Mo
 - **Amn and the giants:** the letter could still turn the queen against Amn; the party now stands outside her city.
 - **The fungus on Nelgron's pack.** (Her Corpse Rot was healed at the Myconid Garden.)
 - **Arinir's cracked ribs** from covering Kaitlin's escape (confirmed 2026-10-19).
-- **Paz's spring (2026-10-28):** a sacred spring and fey crossing higher on the Adder Peaks, tended by Paz. It boiled during the shudder, and the growth around it turned black and twisted. Paz blames corruption bleeding out of Karrag-Dum ("Keryd-Dum") and reads it as abyssal. **DM-ONLY: undecided.** What's really poisoning it: the loosening chains (primordial fire waking), Amn's excavation hitting a binding seam, or Spite's corruption with the tower's signature. The prep has no abyssal cult; add one as a faction only if the session lead wants. The spring's name is a placeholder.
+- **Paz's spring (2026-10-28):** a sacred spring and fey crossing higher on the Adder Peaks, tended by Paz. It boiled during the shudder, and the growth around it turned black and twisted. Paz blames corruption bleeding out of Karrag-Dum ("Keryd-Dum") and reads it as abyssal. **DM-ONLY: undecided.** What's really poisoning it: the loosening chains (primordial fire waking), Amn's excavation hitting a binding seam, or Spite's corruption with the tower's signature. The prep has no abyssal cult; add one as a faction only if the session lead wants. **Named 2026-11-01 by the player:** the **Pool of Lucht Síochána**, kept by the Lucht Síochána, followers of **Eldath** (peace, still waters). It **dried up overnight**, and Paz followed "a break in the natural path" **to Kaitlin**. **DM-ONLY, suggested:** whatever is waking pulls on Kaitlin (she feels it "like something pulling") and drained the pool, so the break in the path that led Paz to her links Kaitlin to the chains, which is consistent with the temple finding her "viable." Eldath's faith gives Paz a natural opposition to whatever fire is waking.
+- **Valerian and the Codex (2026-11-01):** his escape ran from Euzarg's sanctuary through a planar crack, up to the surface, then along the gold seam to the party. Open: how the sanctuary fits with Kiln Hall, why Theon was there, the amulet Hurintha eyed, and what the Codex wants. The Eclipsed Page hunt starts at 0.
 - **The mountain is waking (2026-10-19):** magmins rising from melted circles on the slope; a pale gold seam of light in the rock, pulsing and running east; a fresh steam/ash column 3–4 miles east; Karrag-Dum's lights all dimming during a shudder. Kaitlin feels it physically. **DM-ONLY:** a symptom of the loosening chains after Kaitlin's refusal. The gold seam is a chain of light under the earth; east lies another station, or the route Valerian took out.
 
 ## To resolve
