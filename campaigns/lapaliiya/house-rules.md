@@ -1,6 +1,6 @@
 # House Rules
 
-_Last updated: 2026-10-24 · Core settings (ruleset, leveling, initiative, lethality, tone, lines and veils) live in `campaign.md`. This file holds what the table adds on top._
+_Last updated: 2026-11-01 · Core settings (ruleset, leveling, initiative, lethality, tone, lines and veils) live in `campaign.md`. This file holds what the table adds on top._
 
 ## Table conventions
 - **Earned level-ups.** A milestone comes with an in-fiction justification from the player: four "magnificent" feats, saves or actions drawn from the character's history. Both Nelgron's log and Melania's sheet notes mention it, so it looks table-wide.
@@ -20,6 +20,27 @@ _Adopted 2026-10-24. They give individual speed back its value under side initia
 ## Homebrew
 - **Bandaged Wraps of Humility** (Nelgron). Bracers of Defense with homebrew scaling (her log says +1; her D&D Beyond sheet applies the standard +2, giving AC 18): they grow only through sacrifice borne for those who cannot repay it, never through kills, and restore themselves when used to heal or tend the dying. Scaling steps aren't written down yet; the session lead decides when they grow.
 - **Cyclops gem-stones.** Each PC received an identical gem-set stone; they opened the bronze door in a sequence. Whether they were consumed is unconfirmed.
+
+### Codex of the First Root (Valerian) — DRAFT, under discussion (2026-11-01)
+_The player brought an LLM-generated version; this is the campaign-tuned draft. Direction from the session lead: build it into backstory, **keep it light at the start**, let it grow with levels. Nothing here is final until the table agrees._
+
+Wondrous item, requires attunement by a druid. Starts uncommon and grows with Valerian.
+- **Already attuned.** The player's version had an earlier stage where using it cost HP ("hostile self-defense protocols"); treat that as backstory. The burn under his ribs was that stage.
+- **Tier 1, awakened (now, level 3–4):**
+  - **Star Map.** The Codex *is* his Circle of the Stars Star Map and spellcasting focus. No extra power, just flavour.
+  - **Planar Data Sync**, **once per long rest**, as an action. Choose one:
+    - **Cartographer's Eye:** learn the layout within **60 ft**, including hidden doors and passages and mechanical or magical traps (where they are, not how to bypass them). Replaces the original "exact layout of the current dungeon level."
+    - **Primal Vulnerability:** pick a creature you can see within 60 ft. Learn its damage vulnerabilities, resistances and immunities; the **next attack roll** against it before the end of your next turn has **advantage**. Replaces the original "spell check," which isn't a rule.
+  - **Life for Life.** Extra syncs beyond the free one cost **one Hit Point Die** each (rolled and lost, no healing), or **1 level of Exhaustion** if none remain.
+  - **Every sync pings** (see the threat tracker below).
+- **Tier 2, rooted (level 5 or a story beat):** 2 uses per long rest; range 120 ft; Primal Vulnerability as a bonus action.
+- **Tier 3, flowering (level 9 or a major story beat), DM-side:** a new option, **Archive Query**: once per long rest, cast *Legend Lore* or *Commune with Nature* through the Codex without a slot. Its ping counts double.
+
+**The Ping / Eclipsed Page threat tracker (draft).** A DM-side clock, **0–6**. Each sync **+1**; a costed extra sync **+2**; **−1 per week** without a sync. Players see the signs, not the number (to confirm).
+- **2 — signs:** a pale raven, a torn page left where he'll find it, a stranger asking after "the surveyor."
+- **4 — a hunting party:** a scout team scaled to the party, sent to locate, not kill.
+- **6 — an Elite Censor:** a set-piece encounter; afterwards the clock resets to 2.
+- The Order itself is DM-only; see `bible.md` → Factions.
 
 ## Adventure-specific rules from prep (use if the place comes up again)
 - **Twisted Path:** a long rest in an unprotected stretch gives no benefit; short rests work. Reality Twists (d6) and Spite's Whisper (Wisdom save or a compulsion to act against the apparent betrayer; the PC keeps agency and remembers it).
