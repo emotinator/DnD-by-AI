@@ -126,9 +126,14 @@ The campaign folder is the campaign's memory. Treat it as canon and keep it curr
 
 When the session lead says `end session`:
 
-1. Write the session file `sessions/YYYY-MM-DD-<short-title>.md`: a 5–10 bullet recap, decisions and their consequences, NPCs met or changed, loot and milestones, open threads, and any rulings made. Session files are never edited afterward.
+Every session gets an **episode title**: a short, evocative name drawn from what happened, like "Out of the Dark" or "The Seam and the Stair". Propose one at `end session` and let the session lead change it. The same title names the session file, the `log-recent.md` entry, the commit and the branch, so the history reads like a list of episodes.
+
+1. Write the session file `sessions/YYYY-MM-DD-<title-slug>.md` (e.g. `2026-11-01-the-seam-and-the-stair.md`): a 5–10 bullet recap, decisions and their consequences, NPCs met or changed, loot and milestones, open threads, and any rulings made. Session files are never edited afterward.
 2. Write every living file that changed directly into the campaign folder in the repo. If the repo isn't reachable, output each changed file's full text instead.
-3. List what changed, and remind the session lead to review, commit and **push** (`<campaign>: Session YYYY-MM-DD: <short title>`) so the next co-DM gets it.
+3. List what changed, and remind the session lead to review, commit and **push** so the next co-DM gets it. Give them the names:
+   - Branch: `<campaign>/YYYY-MM-DD-<title-slug>` (e.g. `lapaliiya/2026-11-01-the-seam-and-the-stair`)
+   - Commit and PR title: `<campaign>: Session YYYY-MM-DD: <Episode Title>`
+   - Work between sessions (journals, prep, handoffs) uses `Between sessions YYYY-MM-DD: <short summary>` and a matching branch slug.
 4. Suggest 2–3 hooks for next session based on open threads and quiet players.
 
 If the files conflict with what happened in this chat, the chat wins for this session. Flag the conflict in the end-of-session notes.

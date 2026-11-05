@@ -1,14 +1,16 @@
 # Recent Sessions — Arc 2: The Memory Road and the Seven Chains
 
-_Last updated: 2026-11-01 · Arc 1 (Lapaliiya to the royal decree) is in `archive/arc-1-summary.md`. Source for this arc: Nelgron's event log, Parts 4–6 (`archive/chronicles/nelgron-campaign-event-log-entries-1-31.md`). Prep for each adventure is in `archive/prep/`. Per-session files for this arc haven't been written; the log is the detailed record._
+_Last updated: 2026-11-05 · Arc 1 (Lapaliiya to the royal decree) is in `archive/arc-1-summary.md`. Source for this arc: Nelgron's event log, Parts 4–6 (`archive/chronicles/nelgron-campaign-event-log-entries-1-31.md`). Prep for each adventure is in `archive/prep/`. Per-session files for this arc haven't been written; the log is the detailed record._
 
 ## Where we left off
+
+**Session 2026-11-01, "The Seam and the Stair"** (`sessions/2026-11-01-the-seam-and-the-stair.md`). **Dawn after a long rest at the rim of the steam cleft**, about 3–4 miles east of the basalt hollow along the gold seam, Adder Peaks. Fresh snow on the slopes; the cleft stays warm. **Hurintha left at first light** for Davarn (warn the dwarves, tell Mimon Tamberweed, fetch Dave, find Theon and the Bard). Present: Nelgron, Melania, Arinir (cracked ribs), Valerian, Paz, with Kaitlin (holding the Lantern of Revealing and Hurintha's stone) and **Teodar Vessin**, a rescued Amnian-paid surveyor (limping, scalded, clutching a satchel of readings). A friendly raven watches the stair. Long rest done: slots restored, Aid expired, Valerian's familiar can be re-summoned. **The fork:** down the stair into the hall with the cracked chain, or into Karrag-Dum with Teodar to find the hooded woman. Handoff brief: `handoff-next-session.md`.
 
 **Session 2026-10-19, "Out of the Dark"** (`sessions/2026-10-19-out-of-the-dark.md`). Night, in a hidden basalt hollow with a warm vent, about ¼ mile west of where the lava tube came out in the Adder Peaks, south of Karrag-Dum. The party is about to begin a long rest. **Still pending at the table:** the watch order and the night itself; whether Arinir's cracked ribs are a lingering injury. Present: Nelgron, Hurintha, Melania, Arinir, Bubba Fatt, and Kaitlin, who is speaking again. Valerian is separated (his own escape story, possibly tied to the steam column to the east). Theon and the Bard are back in a town (to be decided). HP now uses the 2024 Con bonus. Party at the end of the session: Nelgron 29/38, Hurintha 55/55, Melania 36/38, Arinir 16/38 (after Hand of Healing, +5), Bubba Fatt 29/36.
 
 **Between sessions (play-by-post on Discord, drafted 2026-10-28; posting pending):** Bubba Fatt slips away during his night watch (his player is retiring him; the reason is still open). At dawn the party wakes to find him gone, his prints fading on wind-scoured rock, and wolf tracks circling the hollow, including two sets of huge prints (winter wolves) that never came inside. **Paz**, a Fairy Cleric of Peace, arrives by chance. Paz knows the party only "metaphysically": Paz's sacred spring and fey crossing higher on the mountain boiled in the night, the growth around it turned black, and Paz needs mortal muscle to stop the corruption Paz believes is bleeding out of Karrag-Dum. Another new character is coming, to be met in the wilds.
 
-**Next session's opening (drafted 2026-11-01):** a narrator-style intro at dawn in the hollow. Bubba is gone, the wolf tracks ring the camp, and Paz arrives. Then **Valerian returns**: the Codex of the First Root led him up out of the dark, and he followed the gold seam west along the ridge to the hollow. Ends on "What will they do next?" His backstory (Euzarg's sanctuary, the Codex) and the draft Codex rules were logged to `roster.md`, `house-rules.md` and `bible.md`. Still to discuss: the Codex tuning, whether he takes Exhaustion, and his HP.
+_(Played at the table 2026-11-01 as the session opener; see that session file.)_
 
 _Before that session:_ Night, in the Adder Peaks, before the Burning Anvil (Karrag-Dum). The party has just climbed a collapsing lava tube out of the Temple of the First Fire, badly hurt. Below the Sunless Sea, Kaitlin was offered the keeper's choice: hold the chains with her life, or save herself. The Rogue shouted for her to run, and she ran. Two of seven chains are broken. The Mind Flayer was smashed by the temple's constructs and may be dead. Zohir faded away rather than died. Arinir took a serious wound (two cracked ribs, confirmed 2026-10-19) covering Kaitlin's escape. Nobody in the city above knows they're here yet.
 
@@ -22,24 +24,30 @@ _Before that session:_ Night, in the Adder Peaks, before the Burning Anvil (Karr
 | 12 | **The Twisted Path** | Members replaced by others with the same names; no one cares. A walking loop. A fungal crab; the egg, taken as a portent and traded to a myconid for broken white stones ("They who cling to the ceiling"). The amnesiac Mind Flayer joins ("remember us"). An ooze, killed with one palm strike, leaving a carved wooden peg. The overlook: a city hanging from the ceiling over a black sea. | `a12-the-twisted-path.md` |
 | 13 | **The Temple (Tower) that Spite Built** | The Priestess and Kaitlin reappear. Three cyclopes ferry the party to "the Stone in the Water." The ascent platform, a manticore, Kaitlin's lightning, the bridge-cutters, a shambling mound. Seven chains: one glowing, one broken. A rune-staircase puzzle; rock-like humanoids. The Flayer's memory: "We cannot destroy it. We must bind it, in seven places." **Zohir**: "You think it was built to contain something…" She faded away; another chain broke and the tower fell. | `a13-the-tower-that-spite-built.md` |
 | 14–15 | **The Dawn Titans** | Cyclopes' gem-stones for everyone ("I sense this may be needed"). The serpent-worm bit Nelgron's leg (minor) and escaped, not killed. The bronze door opened with the gems. Visions of the binding and the seven stations. The altar fight: constructs smash the Flayer; Nelgron revives the fallen; the altar's three readings. The roof opens on five chains. **Kaitlin's choice: she runs.** The climb out to the Burning Anvil; the Ranger or the Rogue is badly hurt covering her. | `a14-15-dawn-titans.md` |
+| 17 | **The Seam and the Stair** (2026-11-01) | Dawn: Bubba gone, Paz arrives (the drained Pool of Lucht Síochána's trail led to Kaitlin), Valerian returns along the gold seam. Kaitlin chose to go east. Wolves let them go after a toll and the den returned. The pool's water drains into a cracked chain; the Lantern of Revealing shows the chain and a slack thread to Kaitlin. At the steam cleft: chalk star (two points struck), "Faster." Four steam mephits killed on the stair; **Teodar Vessin** rescued. Amn's dig hit a vault; the Factor hunts Kaitlin; a hooded woman counts the chains. Camp at the rim; **Hurintha leaves for Davarn.** | — |
 | 16 | **Out of the Dark** (2026-10-19) | Out on the Adder Peaks at night. Nelgron scouted alone and soloed four magmins that rose from melted circles in the snow; a gold seam of light pulsed and ran east. Karrag-Dum's lights dimmed together with a mountain shudder. Kaitlin spoke: "I felt it. Like something pulling." Arinir has two cracked ribs. The party moved to a hidden basalt hollow to long rest. | — |
 
 ## Live threads
-- What Kaitlin's refusal sets loose, and when.
-- Karrag-Dum right ahead: the giant queen, the letter to the Factor, the Mage who may know their faces.
-- Zohir, gone but not dead.
-- The Mind Flayer's fate.
-- The Fire's name; the five remaining chains.
-- The coin to Factor Valance; the exchange owed to Manco.
-- Arinir's cracked ribs from covering Kaitlin (lingering injury? pending).
-- The gold seam running east, and the steam/ash column 3–4 miles east along the ridge. Valerian's way out?
-- Elementals rising from the mountain; Karrag-Dum's lights dimming with the shudders. Do the giants notice?
-- Kaitlin feels the shudders "here, like something pulling."
-- Theon and the Bard: which town are they in?
-- Bubba Fatt's departure: why he left (player to choose). He's available as an NPC later.
-- Paz's boiled spring and fey crossing up the mountain: what is really corrupting it (DM-only, undecided; see `bible.md`).
-- The winter wolf pack circling the hollow: hungry, and they speak Common and Giant. An ambush is prepped if the party stays another night.
-- A second new character to meet in the wilds (class to be decided).
+_Consolidated 2026-11-01 so the table can hold it: three threads in front of the players, everything else parked._
+
+**In front of the players:**
+1. **The chain (what's happening).** The binding under the mountain is failing and pulls at Kaitlin. The gold seam, the drained Pool of Lucht Síochána, the steam cleft, the hall with its cracked link, the seven faceless figures, the empty lantern niche, the slack thread to Kaitlin, and Valerian's Codex are one story. The five-beat pulses are quickening.
+2. **Amn (who's making it worse).** Amn's dig under Karrag-Dum broke into an old black-stone vault last month (Teodar's account). The Factor keeps a sketch of "the Hawklin girl" and is hunting her. The letter to the Factor is still in the pack; the coin is still owed to Factor Valance; Teodar is a way in.
+3. **The hooded woman (who knows the most).** Pays Teodar to draw the seven-pointed star and strike a point when the glow dims (twice). Hides it from the Factor. The table suspects **Saressa** (unconfirmed; DM's choice).
+
+**The fork:** the hall, or Karrag-Dum with Teodar.
+
+**Parked (don't raise unless the players do):**
+- Bubba Fatt: gone; an NPC later. Why he left is the player's to choose.
+- The winter wolves: resolved, neutral to friendly after the toll; a parley would start well.
+- The Order of the Eclipsed Page: threat clock at **1** (they were already sweeping the deep). Quiet until Valerian syncs the Codex.
+- Hurintha (away a couple of sessions), Theon and the Bard (to be found by Hurintha), Dave (in Davarn).
+- Arinir's cracked ribs (lingering injury? still pending).
+- Zohir; the Mind Flayer; Euzarg and Trevandor; Valerian's survey pins (a marked route from Euzarg's sanctuary to the surface).
+- A second new character to meet in the wilds (class to be decided). Teodar could fill this slot if a player wants him.
+- The giant queen; the Mage who may know their faces; Karrag-Dum's lights dimming with the shudders.
+- What Kaitlin's refusal sets loose; the Fire's name.
+- The exchange owed to Manco.
 - The fungus on Nelgron's pack.
 - The lost weeks: the key, the journals, and six unused fragments: a blister ledger, mis-tied gems, a chess floor, a large shape at a distance, a tower overlooking a town, writing at night.
 - The Keeper's question, if they ever go back through the Last Gate.
