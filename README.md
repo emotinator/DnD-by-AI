@@ -148,7 +148,14 @@ You should get: "Authenticated", Nelgron's level, HP and AC, and the `_template`
 
 - **Input:** the session lead types for the table, e.g. `Hurintha: attacks, 17 to hit, 14 damage.` Lines starting `DM:` or `OOC:` are instructions to Claude. Discord posts go in with `DISCORD:`.
 - **`end session`:** Claude writes the session file and the changed working-set files straight into `campaigns/<name>/`, lists what changed, and suggests hooks for next time. (If it can't reach the repo, it gives you the full file text to save yourself.)
-- **Review, commit, push:** `git diff` to check, then `git commit -am "<campaign>: Session YYYY-MM-DD: <short title>"` and `git push`.
+- **Episode titles:** every session gets a title, like "The Seam and the Stair". Claude proposes one at `end session`; the session lead can change it. It names the session file, the log entry, the commit and the branch.
+- **Review, commit, push:** `git diff` to check, then branch, commit and push using the episode title:
+  ```
+  git checkout -b <campaign>/YYYY-MM-DD-<title-slug>      # e.g. lapaliiya/2026-11-01-the-seam-and-the-stair
+  git commit -am "<campaign>: Session YYYY-MM-DD: <Episode Title>"
+  git push -u origin HEAD
+  ```
+  Then open a PR with the same title.
 - **Not using git?** Send your end-of-session output to Elmer to commit.
 
 ## Handing off between co-DMs

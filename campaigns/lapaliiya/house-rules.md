@@ -1,6 +1,6 @@
 # House Rules
 
-_Last updated: 2026-11-01 · Core settings (ruleset, leveling, initiative, lethality, tone, lines and veils) live in `campaign.md`. This file holds what the table adds on top._
+_Last updated: 2026-11-05 · Core settings (ruleset, leveling, initiative, lethality, tone, lines and veils) live in `campaign.md`. This file holds what the table adds on top._
 
 ## Table conventions
 - **Earned level-ups.** A milestone comes with an in-fiction justification from the player: four "magnificent" feats, saves or actions drawn from the character's history. Both Nelgron's log and Melania's sheet notes mention it, so it looks table-wide.
@@ -36,7 +36,7 @@ Wondrous item, requires attunement by a druid. Starts uncommon and grows with Va
 - **Tier 2, rooted (level 5 or a story beat):** 2 uses per long rest; range 120 ft; Primal Vulnerability as a bonus action.
 - **Tier 3, flowering (level 9 or a major story beat), DM-side:** a new option, **Archive Query**: once per long rest, cast *Legend Lore* or *Commune with Nature* through the Codex without a slot. Its ping counts double.
 
-**The Ping / Eclipsed Page threat tracker (draft).** A DM-side clock, **0–6**. Each sync **+1**; a costed extra sync **+2**; **−1 per week** without a sync. Players see the signs, not the number (to confirm).
+**The Ping / Eclipsed Page threat tracker (draft).** A DM-side clock, **0–6**. **Current: 1** (set 2026-11-05: Valerian's journal says the Order's scanners were already sweeping the deep before he surfaced). No syncs yet. Each sync **+1**; a costed extra sync **+2**; **−1 per week** without a sync. Players see the signs, not the number (to confirm).
 - **2 — signs:** a pale raven, a torn page left where he'll find it, a stranger asking after "the surveyor."
 - **4 — a hunting party:** a scout team scaled to the party, sent to locate, not kill.
 - **6 — an Elite Censor:** a set-piece encounter; afterwards the clock resets to 2.
@@ -49,5 +49,12 @@ Wondrous item, requires attunement by a druid. Starts uncommon and grows with Va
 ## Rulings that stuck
 - **Tavern Brawler push vs. death effects** (2026-10-19): the push resolves before a death effect like Death Burst, which then goes off at the pushed position.
 - **Putting out Burning in snow** (2026-10-19): drop prone and roll; no action needed. Standing costs half movement.
+- **Ready action = one attack** (2026-11-01): a readied attack is a single attack even with Extra Attack; Extra Attack applies only to the Attack action on your own turn.
+- **Wolf fur as scent masking** (2026-11-01): working a pack's own shed fur into gear beat ash; with Survival 22 and the den returned plus a toll, pursuit ended outright.
+- **Wild Companion (2024 druid)** (2026-11-01): spend a Wild Shape use to cast Find Familiar; seeing through its senses is a bonus action, and your own body is blinded and deafened meanwhile.
+- **Death Burst vs. a restrained or pinned creature** (2026-11-01): its Dex save is at disadvantage.
+- **Tavern Brawler push before Death Burst** applied again 2026-11-01 (both mephits shoved off the lip before bursting).
+- **Under review: Aid** (2026-11-01): played as +8 HP. RAW is +5 with a 2nd-level slot, +10 with 3rd. Confirm the slot Paz used, or keep +8 as a table ruling.
+- **Under review: Healing Word as one of two Flurry turns** (2026-11-01): Melania used one Drama Deck Flurry turn on Healing Word (normally a bonus action) and the other on Sacred Flame. No effect on the outcome; decide whether a bonus-action spell plus a cantrip could share one turn.
 - **Deflect Attacks vs. area effects** (2026-10-19): doesn't apply to saving-throw effects (attack rolls only) or, before level 13, to non-B/P/S damage.
 - **Under review:** in 2026-10-19 round 1, the lead allowed a Dodge after Nelgron's action went on attacks, with no Focus spent. In 2024 rules that's Patient Defense with 1 Focus. Decide which stands.
